@@ -1,7 +1,7 @@
 {
-  "name": "userauth",
+  "name": "nodejwt_user_auth",
   "version": "1.0.0",
-  "description": "",
+  "description": "User authentication using NodeJS and JWT",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
