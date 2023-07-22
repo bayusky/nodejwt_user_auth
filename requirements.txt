@@ -1,0 +1,6 @@
+express
+mongoose
+nodemon
+bcryptjs
+jsonwebtoken
+nodemailer
